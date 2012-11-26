@@ -40,6 +40,7 @@ ctrl-c
 ```
 
 1. Run the application:
+
 ```
 cd ../core
 play
