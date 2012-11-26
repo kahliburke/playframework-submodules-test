@@ -1,0 +1,8 @@
+bin
+.cache
+.settings
+.classpath
+.target
+target
+test
+logs

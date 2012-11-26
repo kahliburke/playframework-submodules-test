@@ -1,0 +1,1 @@
+GET     /sub1     controllers.Submodule1Application.route
